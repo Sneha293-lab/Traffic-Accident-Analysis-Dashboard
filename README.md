@@ -4,3 +4,6 @@ Key highlights include accident hotspots, top causes, outcome distribution, and 
 
 Tools Used: Power BI
 Features: Interactive filters, map visualization, KPI cards, charts
+## Dashboard Preview
+
+![Dashboard Screenshot](dashboard.png)
